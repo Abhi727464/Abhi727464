@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhi727464" target="blank"><img src="https://img.shields.io/twitter/follow/abhi727464?logo=twitter&style=for-the-badge" alt="abhi727464" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React and other front End technologies**
+- 🌱 Currently working as  **Front End Developer**
 
 - 💬 Ask me about **Front end development**
 - 📫 How to reach me **abhaysinghparmar123@gmail.com**
